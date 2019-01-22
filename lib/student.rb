@@ -2,6 +2,8 @@ require_relative "../config/environment.rb"
 
 class Student
 
-  dif 
+  def initialize()
+    
+  end
 
 end
